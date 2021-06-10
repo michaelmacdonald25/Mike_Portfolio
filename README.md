@@ -1,18 +1,18 @@
-# Mike_Portfolio
-Example data science portfolio
+# Mike's Portfolio
+Love finding fun ways to visualize data and am always exploring new techniques. <a href="https://linktr.ee/michaelmacdonald25">Here</a> is some of my work with additional details below.
 
-# [Project 1: Data Science Salary Estimator: Project Overview](https://github.com/PlayingNumbers/ds_salary_proj)
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+Currently expanding my knowledge of Python and r while settling in to GitHub.
+
+Collaborations always welcome! :)
+
+# [Project 1: COVID in Toronto: Cases vs. Vaccinations](https://public.tableau.com/app/profile/michaelmacdonald25/viz/COVIDinTorontoCasesvs_Vaccinations_16200779755830/MapsRegion)
+* Created an interactive tool comparing COVID cases in Toronto (total and recent) against vaccination coverage to identify areas most in need of resources
+* Collaborated with fellow analytics professionals to build enhancements (switching from volumes and including rates) and share ideas on how to pivot the hot-spot strategy
 
 ![](/images/01_Toronto_CV.jpg)
 
-# [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
-For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
-
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
+# [Project 2: AEW Match Analytics](https://public.tableau.com/app/profile/michaelmacdonald25/viz/AEWMatchAnalytics_16160033786530/Main) 
+* Built an interactive tool for tracking match performance within All Elite Wrestling (AEW) and provided insights ahead of upcoming events
+* Shared statistics with audience members and fellow analytic minds to enable subsequent analyses
 
 ![](/images/02_AEW.jpg)
