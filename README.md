@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mike's Portfolio
+---
+
 # Mike's Portfolio
 Love finding fun ways to visualize data and am always exploring new techniques. <a href="https://linktr.ee/michaelmacdonald25">Here</a> is some of my work with additional details below.
 
