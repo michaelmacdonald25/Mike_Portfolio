@@ -5,13 +5,13 @@ Currently expanding my knowledge of Python and r while settling in to GitHub.
 
 Collaborations always welcome! :)
 
-# [Project 1: COVID in Toronto: Cases vs. Vaccinations](https://public.tableau.com/app/profile/michaelmacdonald25/viz/COVIDinTorontoCasesvs_Vaccinations_16200779755830/MapsRegion)
+# [COVID in Toronto: Cases vs. Vaccinations](https://public.tableau.com/app/profile/michaelmacdonald25/viz/COVIDinTorontoCasesvs_Vaccinations_16200779755830/MapsRegion)
 * Created an interactive tool comparing COVID cases in Toronto (total and recent) against vaccination coverage to identify areas most in need of resources
-* Collaborated with fellow analytics professionals to build enhancements (switching from volumes and including rates) and share ideas on how to pivot the hot-spot strategy
+* Collaborated with fellow analytics professionals to build enhancements and share ideas on pivoting the hot-spot strategy
 
 ![](/images/01_Toronto_CV.jpg)
 
-# [Project 2: AEW Match Analytics](https://public.tableau.com/app/profile/michaelmacdonald25/viz/AEWMatchAnalytics_16160033786530/Main) 
+# [AEW Match Analytics](https://public.tableau.com/app/profile/michaelmacdonald25/viz/AEWMatchAnalytics_16160033786530/Main) 
 * Built an interactive tool for tracking match performance within All Elite Wrestling (AEW) and provided insights ahead of upcoming events
 * Shared statistics with audience members and fellow analytic minds to enable subsequent analyses
 
