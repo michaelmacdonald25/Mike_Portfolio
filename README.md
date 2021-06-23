@@ -11,6 +11,10 @@ Collaborations always welcome! :)
 
 ![](/images/01_Toronto_CV.jpg)
 
+<a href="https://public.flourish.studio/visualisation/6195412/">Here</a> and below is a comparison of cases in Toronto this spring compared to vaccination coverage.
+![](/images/CV.gif)
+
+
 # Toronto Blue Jays: Batting
 * Developed a flexible solution to track Toronto Blue Jays batting statistics over the 2021 Major League Baseball season
 * Allows users to expand key batting metrics and navigate different layers to obtain a strong understanding of offensive trends
