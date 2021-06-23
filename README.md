@@ -11,6 +11,13 @@ Collaborations always welcome! :)
 
 ![](/images/01_Toronto_CV.jpg)
 
+# Toronto Blue Jays: Batting
+* Developed a flexible solution to track Toronto Blue Jays batting statistics over the 2021 Major League Baseball season
+* Allows users to expand key batting metrics and navigate different layers to obtain a strong understanding of offensive trends
+
+![](/images/Jays.jpg)
+
+
 # [AEW Match Analytics](https://public.tableau.com/app/profile/michaelmacdonald25/viz/AEWMatchAnalytics_16160033786530/Main) 
 * Built an interactive tool for tracking match performance within All Elite Wrestling (AEW) and provided insights ahead of upcoming events
 * Shared statistics with audience members and fellow analytic minds to enable subsequent analyses
